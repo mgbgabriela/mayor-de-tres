@@ -1,2 +1,2 @@
-# mayor-de-tres
+# Ejerciciomayordetres
 Created with CodeSandbox
