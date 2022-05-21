@@ -1,3 +1,9 @@
+/*Ejercicio – Mayor de Tres
+• Desarrolle un algoritmo que dados tres
+números determine cuál es el mayor de los
+tres*/
+
+
 let dato1 = document.getElementById("dato1");
 let dato2 = document.getElementById("dato2");
 let dato3 = document.getElementById("dato3");
